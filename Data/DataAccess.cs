@@ -59,7 +59,6 @@ namespace API_ES.Data
                     resp = Convert.ToInt32(sql_main_command.ExecuteNonQuery());
                 }
             }catch(Exception){
-                Console.WriteLine("testeEx");
                 // Retunr empty Data Table
                 return resp;
             }
