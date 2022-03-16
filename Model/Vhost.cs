@@ -1,10 +1,10 @@
 
 namespace API_ES.Model
 {
-    public class User
+    public class Vhost
     {
         public string? UserName {get; set; }
-        public string? Password {get; set; }
+        public string? vhost{get; set; }
 
     }
 }

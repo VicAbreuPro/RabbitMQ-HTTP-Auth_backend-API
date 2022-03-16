@@ -6141,19 +6141,19 @@
     ]
   },
   "packageFolders": {
-    "/home/victor/.nuget/packages/": {}
+    "/home/victorabreu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/victor/API_ES/API_ES.csproj",
+      "projectUniqueName": "/home/victorabreu/API_ES/API_ES/API_ES.csproj",
       "projectName": "API_ES",
-      "projectPath": "/home/victor/API_ES/API_ES.csproj",
-      "packagesPath": "/home/victor/.nuget/packages/",
-      "outputPath": "/home/victor/API_ES/obj/",
+      "projectPath": "/home/victorabreu/API_ES/API_ES/API_ES.csproj",
+      "packagesPath": "/home/victorabreu/.nuget/packages/",
+      "outputPath": "/home/victorabreu/API_ES/API_ES/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/victor/.nuget/NuGet/NuGet.Config"
+        "/home/victorabreu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -6216,7 +6216,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
